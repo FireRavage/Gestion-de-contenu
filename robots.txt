@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fireravage.github.io/Gestion-de-contenu/sitemap.xml
